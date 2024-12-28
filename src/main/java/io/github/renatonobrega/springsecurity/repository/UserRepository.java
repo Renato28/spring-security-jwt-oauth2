@@ -1,4 +1,4 @@
-package io.github.renatonobrega.springsecurity;
+package io.github.renatonobrega.springsecurity.repository;
 
 import io.github.renatonobrega.springsecurity.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
